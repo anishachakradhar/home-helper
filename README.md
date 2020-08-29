@@ -1,68 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Home helper
 
-## Available Scripts
+> Project for [quantumhack](quantumhack.tech)
 
-In the project directory, you can run:
+## Objective
 
-### `yarn start`
+- Help find the correct people for helping us to solve our household problems.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Description
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+The main idea of the project is to find the correct people for helping us to solve our household problems.
 
-### `yarn test`
+The common problems in our house are repairing a tap, fixing fuse or switch issues or anything related to electricity, fixing problems that may arise in our electronic appliances like television, laptops, grinder, etc painting a room or a house collection of old or unused household stuff or furniture and there can be many.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The solution to this problem is finding people who are good with a particular skill. There can be many ways to contact them but as mostly seen and heard its mostly through connections i.e someone referring that person for work. The problem with this is sometimes you wouldn't find a person for a problem or you have to wait for someone to refer them to you and it becomes difficult to know where you can find a correct person.
 
-### `yarn build`
+Hence, our platform brings all such people who are good in a particular skill together. This platform is for all the general people with local skills that are needed in our society. or at home. Anyone with any skill where qualification isn't necessary can create their own profile, add their contact information and location.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+People with household problems can search for people with the particular skill and even on the basis of location and solve their problems. It is beneficial to both sides. This not only solves our problems occuring in our daily lives but also helps the people to get income generating opportunities.
