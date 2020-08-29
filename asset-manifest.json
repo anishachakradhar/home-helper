@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/anishachakradhar/home-helper/frontend/static/css/main.2b5e8d76.chunk.css",
+    "main.js": "/anishachakradhar/home-helper/frontend/static/js/main.9ff8755e.chunk.js",
+    "main.js.map": "/anishachakradhar/home-helper/frontend/static/js/main.9ff8755e.chunk.js.map",
+    "runtime-main.js": "/anishachakradhar/home-helper/frontend/static/js/runtime-main.3f765197.js",
+    "runtime-main.js.map": "/anishachakradhar/home-helper/frontend/static/js/runtime-main.3f765197.js.map",
+    "static/css/2.11829350.chunk.css": "/anishachakradhar/home-helper/frontend/static/css/2.11829350.chunk.css",
+    "static/js/2.e9e22e55.chunk.js": "/anishachakradhar/home-helper/frontend/static/js/2.e9e22e55.chunk.js",
+    "static/js/2.e9e22e55.chunk.js.map": "/anishachakradhar/home-helper/frontend/static/js/2.e9e22e55.chunk.js.map",
+    "index.html": "/anishachakradhar/home-helper/frontend/index.html",
+    "precache-manifest.6cedae82dd7eea4345be301f7f235407.js": "/anishachakradhar/home-helper/frontend/precache-manifest.6cedae82dd7eea4345be301f7f235407.js",
+    "service-worker.js": "/anishachakradhar/home-helper/frontend/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/anishachakradhar/home-helper/frontend/static/css/2.11829350.chunk.css.map",
+    "static/css/main.2b5e8d76.chunk.css.map": "/anishachakradhar/home-helper/frontend/static/css/main.2b5e8d76.chunk.css.map",
+    "static/js/2.e9e22e55.chunk.js.LICENSE.txt": "/anishachakradhar/home-helper/frontend/static/js/2.e9e22e55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f765197.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.e9e22e55.chunk.js",
+    "static/css/main.2b5e8d76.chunk.css",
+    "static/js/main.9ff8755e.chunk.js"
+  ]
+}
